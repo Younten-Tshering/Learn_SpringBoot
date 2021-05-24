@@ -1,6 +1,7 @@
 ># _RESTful APIs and MVC with Spring Boot_
 
->## Scenario for this lab work:
+>## Scenario:
+
 1. A model of Employee, with fields of name, gender (enum), address, salary (per annum), value (generate per annum), and position level (int) - 4 as highest
 2. Create a view to list all employees with net value (calculated as value - salary) sorted (ascending or descending - either is fine) 
 _Red highlight the one with minus net value (use CSS)_
@@ -9,7 +10,6 @@ _Red highlight the one with minus net value (use CSS)_
 ---
 ># _Pre-requisites_
 * Make sure you have Spring Boot installed.  You can follow the guide here → https://spring.io/quickstart .
-* Install Postman → https://www.getpostman.com/.  This will be a handy testing tool for testing our RESTful calls.
 ---
 ># Step 1: Adding dependencies
 For VScode: Generate project from https://start.spring.io/
@@ -113,8 +113,7 @@ Create EmployeeDao and should have annotation of @Autowired  (a technique of Dep
 After the user actions, properly format the code (shift + alt +F) and do not forget to save file.
 
 ---
-># Output of the lab1 assignment:
-For this lab work, I have additional included the adding of employee interface and to genenrate the list of employees we have add the following:
+># Output:
 
 1. JSTL from MVN and add in pom.xml as dependency
 ![alt](./pic/18.PNG)

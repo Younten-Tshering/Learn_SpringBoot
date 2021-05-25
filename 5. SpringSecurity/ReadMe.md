@@ -14,7 +14,7 @@ A simple web application for login/logout/register using Spring Security.
 - Rest Repositories - provides automatic restful controllers
 - Validation - provides table validation such as @Email
 
-1. Aside from these dependencies, make sure you install these additional dependencies from maven repositories:
+2. Aside from these dependencies, make sure you install these additional dependencies from maven repositories:
 
 - Tomcat jasper - for working with jsp file
 - Jackson xml - in case you would like to work with xml file
@@ -72,9 +72,11 @@ Before we can actually see what kind of tables that Spring creates for us, we ne
 1. Create our JPA repository (DAO) for accessing info with the database.  Since we have two classes, we will have two JPADao classes.
 
 UserJPADao.java - note the use of RepositoryRestResource
+
 ![alt](./image/6.PNG)
 
 RoleJPADao.java
+
 ![alt](./image/7.PNG)
 
 2. Let’s populate our database with few roles using data.sql

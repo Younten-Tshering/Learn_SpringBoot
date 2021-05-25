@@ -169,6 +169,6 @@ After running the projet we will be able to add contract which would insert reve
 For more details on output follow **Domain Model with JPA**.
 
 Link:
-
+https://github.com/Younten-Tshering/Learn_SpringBoot/tree/master/6.2%20DomainModel-RR
 
 Next we will explore another approach: Domain Model with JPA

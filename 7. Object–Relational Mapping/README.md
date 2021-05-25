@@ -163,10 +163,11 @@ https://github.com/Younten-Tshering/Learn_SpringBoot
 
 1. Tests are written inside TestService.java.  The code can be found in the following link.
 
-
+https://github.com/Younten-Tshering/Learn_SpringBoot/blob/master/7.%20Object%E2%80%93Relational%20Mapping/ORM/src/main/java/com/example/ORM/service/TestService.java
 
 2. The main program will be using the service. The code can be found in the following link.
 
+https://github.com/Younten-Tshering/Learn_SpringBoot/blob/master/7.%20Object%E2%80%93Relational%20Mapping/ORM/src/main/java/com/example/ORM/OrmApplication.java
 
 ># Output:
 

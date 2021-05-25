@@ -120,3 +120,5 @@ We will be using Spring Session JDBC to store spring session information. By def
 ![alt](./image/22.PNG)
 
 ># Please follow the link to see application connect to a Redis and store the session:
+
+https://github.com/Younten-Tshering/Learn_SpringBoot/tree/master/Spring%20Session/SessionWthRedis
